@@ -1,1 +1,1 @@
-﻿This is a textfile for reading fileread.txt
+Input Text Here.
